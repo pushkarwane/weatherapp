@@ -1,0 +1,30 @@
+
+body {
+    background-color: white;
+  }
+  
+
+  input, select {
+    border: 2px solid #4CAF50;
+  }
+  
+
+  #search-btn {
+    background-color: #4CAF50;
+    color: white;
+  }
+
+  #search-btn:hover {
+    background-color: #388E3C; 
+  }
+  
+
+  #weather-info {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  #dropdown p {
+    color: #4CAF50;
+  }
+  
